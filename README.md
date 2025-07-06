@@ -81,14 +81,3 @@
 | 🥇 | **1st Prize** – National Science Day Project Presentation (CIT) |
 | 🧠 | Demonstrated real-time failure prediction using embedded AI |
 | 🔗 | Integrated physical hardware + ML decision logic |
-
----
-
-## 📁 Project Structure
-predictive-maintenance-ai/
-├── arduino_code/
-│   └── failure_predictor.ino        # Arduino sketch
-├── model_training/                  # Python model training script (optional)
-├── screenshots/                     # Prototype visuals
-└── README.md
-
